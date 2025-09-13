@@ -16,11 +16,13 @@ A React-based dynamic dashboard where users can:
 
 ## 📂 Folder Structure
 
-src/
-├── components/ # React components
-├── context/ # Dashboard context (state management)
-├── styles/ # CSS files
-└── App.jsx
+```bash
+    src/
+    ├── components/ # React components
+    ├── context/ # Dashboard context (state management)
+    ├── styles/ # CSS files
+    └── App.jsx
+```
 
 ## ⚙️ Installation
 
@@ -28,5 +30,5 @@ src/
 git clone https://github.com/your-username/dynamic-dashboard.git
 cd frontend-dashboard
 npm install
-npm start
+npm run dev
 ```
