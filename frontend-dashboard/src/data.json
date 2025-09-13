@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "id": "1",
+            "name": "CSPM Executive Dashboard",
+            "widgets": [
+                { "id": "w1", "name": "Widget 1", "text": "This is widget 1" },
+                { "id": "w2", "name": "Widget 2", "text": "This is widget 2" }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Security Overview",
+            "widgets": [
+                { "id": "w3", "name": "Widget 3", "text": "This is widget 3" },
+                { "id": "w4", "name": "Widget 4", "text": "This is widget 4" },
+                { "id": "w5", "name": "Widget 5", "text": "This is widget 5" }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Compliance Overview",
+            "widgets": [
+                { "id": "w6", "name": "Widget 6", "text": "This is widget 6" },
+                { "id": "w7", "name": "Widget 7", "text": "This is widget 7" },
+                { "id": "w8", "name": "Widget 8", "text": "This is widget 8" },
+                { "id": "w9", "name": "Widget 9", "text": "This is widget 9" }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Cost Overview",
+            "widgets": [
+                {
+                    "id": "w10",
+                    "name": "Widget 10",
+                    "text": "This is widget 10"
+                }
+            ]
+        }
+    ]
+}
